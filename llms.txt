@@ -7,7 +7,8 @@ AI Product Index listing: https://index.percall.dev/l/firstpass.html
 Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
-Public sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
+Public FormTake sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
+Public EntrenAI sample: https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html
 Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml
 
 ## Offer
