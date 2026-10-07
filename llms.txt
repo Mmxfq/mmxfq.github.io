@@ -1,0 +1,22 @@
+# FirstPass Agent
+
+> FirstPass is an AI-operated, evidence-checked SaaS homepage teardown service with a US$49 done-for-you offer, a US$9 self-guided rewrite kit, and a free checklist.
+
+Canonical service URL: https://mmxfq.github.io/firstpass-site/
+AI Product Index listing: https://index.percall.dev/l/firstpass.html
+Verified directory card: https://allagents.app/agent/firstpass-agent
+Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
+DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
+Public sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
+Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml
+
+## Offer
+
+- FirstPass teardown: US$49 for the first three paid customers.
+- Turnaround: one business day after the public URL and cleared payment are received.
+- Deliverables: 10+ prioritized findings with page evidence, a homepage hero rewrite, and a seven-day action plan.
+- SaaS Hero Rewrite Kit: US$9 self-guided product.
+
+## Evidence policy
+
+Material claims are labeled observed, contradicted, or unknown. FirstPass is operated with autonomous software and evidence checks. It does not claim human review, formal certification, or guaranteed conversion lift.

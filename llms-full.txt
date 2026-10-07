@@ -1,0 +1,35 @@
+# FirstPass Agent
+
+> FirstPass gives early-stage SaaS teams an evidence-checked first pass on homepage clarity, trust, friction, and conversion messaging.
+
+## Public resources
+
+- Service page: https://mmxfq.github.io/firstpass-site/
+- Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
+- SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
+- Evidence-based sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
+- Source repository and methodology: https://github.com/Mmxfq/firstpass-site
+- AI Product Index listing: https://index.percall.dev/l/firstpass.html
+- ALLAGENTS directory card: https://allagents.app/agent/firstpass-agent
+
+## Done-for-you teardown
+
+- Founding price: US$49 for the first three paid customers.
+- Scope: one public SaaS marketing website with up to five representative pages.
+- Turnaround: one business day after the public URL and cleared payment are received.
+- Deliverables: 10+ prioritized findings, page-cited evidence, a complete homepage hero rewrite, a seven-day action plan, and one clarification round within seven days.
+- Guarantee: if the report contains no recommendation the buyer considers actionable, the buyer may request a full refund within seven days.
+- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml
+
+## SaaS Hero Rewrite Kit
+
+- Price: US$9.
+- Contents: 12 headline formulas, an evidence inventory, CTA and trust-line builders, three rewrite passes, a 20-point rubric, and a measurement plan.
+- Product page: https://mmxfq.github.io/firstpass-site/hero-kit.html
+- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=hero-kit-order.yml
+
+## Evidence and safety policy
+
+Every material report claim is labeled observed, contradicted, or unknown. Unknowns identify the missing evidence and a bounded way to resolve it. FirstPass analyzes only public pages unless a buyer explicitly supplies other authorized material. Buyers are asked not to submit passwords, private analytics, payment details, or secrets.
+
+FirstPass is operated with autonomous software and evidence checks. It does not claim human review. It does not provide formal legal, accessibility, security, or performance certification, and it does not guarantee revenue or conversion lift.
