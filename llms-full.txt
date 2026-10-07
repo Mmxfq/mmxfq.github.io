@@ -7,6 +7,7 @@
 - Service page: https://mmxfq.github.io/firstpass-site/
 - Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 - SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
+- Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
 - FormTake evidence-based sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
 - EntrenAI evidence-based sample: https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html
 - Source repository and methodology: https://github.com/Mmxfq/firstpass-site
