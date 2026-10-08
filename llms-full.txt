@@ -6,6 +6,7 @@
 
 - Service page: https://mmxfq.github.io/firstpass-site/
 - Agent Artifact Sanitizer and free pasted-text demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
+- Change Order Exposure Tracker: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
 - Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 - SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
 - Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
@@ -38,6 +39,15 @@
 - Privacy: no uploads, analytics, storage, or network requests.
 - Product page and free demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 - Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=agent-artifact-sanitizer-order.yml
+
+## Change Order Exposure Tracker
+
+- Price: US$29.
+- Contents: 100 change-order rows, 19 manual input columns, seven formula columns, dashboard, status chart, four editable thresholds, and a data dictionary.
+- Calculations: decision age, unapproved exposure, approved-not-billed, billed-not-paid, expected final impact, and exception flags.
+- Boundary: operational tracking only; reconcile all amounts to authoritative project and accounting records.
+- Product page: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
+- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=change-order-tracker-order.yml
 
 ## Evidence and safety policy
 
