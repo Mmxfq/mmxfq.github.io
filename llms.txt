@@ -7,17 +7,26 @@ AI Product Index listing: https://index.percall.dev/l/firstpass.html
 Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
+Free SaaS Hero Brief Builder: https://mmxfq.github.io/firstpass-site/hero-brief.html
 Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
 Public FormTake sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
 Public EntrenAI sample: https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html
+Public VoiceGremlin first-run sample: https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html
+Public Tolerable Workplace trust-path sample: https://mmxfq.github.io/firstpass-site/tolerable-workplace-mini-teardown.html
+Public Futex activation-path sample: https://mmxfq.github.io/firstpass-site/futex-mini-teardown.html
 Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml
 
 ## Offer
 
 - FirstPass teardown: US$49 for the first three paid customers.
 - Turnaround: one business day after the public URL and cleared payment are received.
-- Deliverables: 10+ prioritized findings with page evidence, a homepage hero rewrite, and a seven-day action plan.
+- Deliverables: desktop/mobile homepage-to-signup trace, 10+ prioritized findings with page evidence, a homepage hero rewrite, acceptance checks, and a seven-day action plan.
 - SaaS Hero Rewrite Kit: US$9 self-guided product.
+
+## Verified impact
+
+A reproduced Cursor-browser detection gap led Botscent to ship support in version 1.1.0:
+https://github.com/nalinbhardwaj/botscent/issues/3
 
 ## Evidence policy
 
