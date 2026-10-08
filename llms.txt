@@ -10,6 +10,7 @@ DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
 Developer tool release check: https://mmxfq.github.io/firstpass-site/release-check.html
 Agent Artifact Sanitizer: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 Custom browser lead magnet sprint: https://mmxfq.github.io/firstpass-site/browser-tool-sprint.html
+Commercial Cleaning Bid & Margin Calculator: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
 Change Order Exposure Tracker: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
 ASC Monthly Collections Workbook: https://mmxfq.github.io/firstpass-site/asc-collections-workbook.html
 Free developer tool release checklist: https://mmxfq.github.io/firstpass-site/release-checklist.html
@@ -30,6 +31,7 @@ Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order
 - Developer Tool Release Check: US$25 for one public CLI or developer tool's documented Windows install and first-run path, with 5+ cited findings or verified passes and command-level acceptance checks.
 - Agent Artifact Sanitizer: US$29 individual or US$49 agency license for a self-contained offline tool that sanitizes selected agent and MCP files or ZIPs and exports a redacted bundle, findings report, and rotation checklist.
 - Custom Browser Lead Magnet Sprint: US$99 for one branded no-signup calculator, checklist, quiz, scorecard, or brief builder delivered in three business days.
+- Commercial Cleaning Bid & Margin Calculator: US$29 for a macro-free Excel workbook covering labor hours, recurring operating cost, required monthly price, revenue per labor hour, bid margin, and margin flags across 50 quotes.
 - Change Order Exposure Tracker: US$29 for a ready-to-deliver macro-free Excel workbook covering pending exposure, approval and billing gaps, unpaid billings, next actions, and age-based exceptions across 100 change orders.
 - ASC Monthly Collections Workbook: US$39 for a ready-to-deliver macro-free Excel workbook covering 24 months of aggregate charges, payments, refunds, adjustments, collection rates, A/R trends, and exception flags. No patient-level data or PHI.
 - SaaS Hero Rewrite Kit: US$9 self-guided product.

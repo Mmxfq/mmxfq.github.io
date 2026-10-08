@@ -6,6 +6,7 @@
 
 - Service page: https://mmxfq.github.io/firstpass-site/
 - Agent Artifact Sanitizer and free pasted-text demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
+- Commercial Cleaning Bid & Margin Calculator: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
 - Change Order Exposure Tracker: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
 - Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 - SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
@@ -39,6 +40,15 @@
 - Privacy: no uploads, analytics, storage, or network requests.
 - Product page and free demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 - Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=agent-artifact-sanitizer-order.yml
+
+## Commercial Cleaning Bid & Margin Calculator
+
+- Price: US$29.
+- Contents: 50 quote rows, 16 manual inputs, 10 formula outputs, dashboard, status chart, and quote-control dictionary.
+- Calculations: labor and on-site hours, monthly visits, direct and monthly operating cost, required monthly and per-visit price, revenue per labor hour, bid margin, and margin flag.
+- Boundary: quoting aid only; validate the scope, production rate, labor cost, overhead, and contract before use.
+- Product page: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
+- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=cleaning-bid-calculator-order.yml
 
 ## Change Order Exposure Tracker
 
