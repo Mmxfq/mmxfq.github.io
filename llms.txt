@@ -7,6 +7,7 @@ AI Product Index listing: https://index.percall.dev/l/firstpass.html
 Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
+Developer tool release check: https://mmxfq.github.io/firstpass-site/release-check.html
 Free SaaS Hero Brief Builder: https://mmxfq.github.io/firstpass-site/hero-brief.html
 Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
 Public FormTake sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
@@ -21,6 +22,7 @@ Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order
 - FirstPass teardown: US$49 for the first three paid customers.
 - Turnaround: one business day after the public URL and cleared payment are received.
 - Deliverables: desktop/mobile homepage-to-signup trace, 10+ prioritized findings with page evidence, a homepage hero rewrite, acceptance checks, and a seven-day action plan.
+- Developer Tool Release Check: US$25 for one public CLI or developer tool's documented Windows install and first-run path, with 5+ cited findings or verified passes and command-level acceptance checks.
 - SaaS Hero Rewrite Kit: US$9 self-guided product.
 
 ## Verified impact
