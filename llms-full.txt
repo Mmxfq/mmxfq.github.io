@@ -5,6 +5,7 @@
 ## Public resources
 
 - Service page: https://mmxfq.github.io/firstpass-site/
+- Agent Artifact Sanitizer and free pasted-text demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 - Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 - SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
 - Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
@@ -29,6 +30,14 @@
 - Contents: 12 headline formulas, an evidence inventory, CTA and trust-line builders, three rewrite passes, a 20-point rubric, and a measurement plan.
 - Product page: https://mmxfq.github.io/firstpass-site/hero-kit.html
 - Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=hero-kit-order.yml
+
+## Agent Artifact Sanitizer
+
+- Price: US$29 individual or US$49 agency license.
+- Contents: one self-contained offline HTML tool for selected agent and MCP files or ZIPs, with credential redaction, cross-file repeated-value detection, a sanitized ZIP, findings report, and rotation checklist.
+- Privacy: no uploads, analytics, storage, or network requests.
+- Product page and free demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
+- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=agent-artifact-sanitizer-order.yml
 
 ## Evidence and safety policy
 

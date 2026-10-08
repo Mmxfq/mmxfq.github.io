@@ -8,6 +8,7 @@ Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
 Developer tool release check: https://mmxfq.github.io/firstpass-site/release-check.html
+Agent Artifact Sanitizer: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 Custom browser lead magnet sprint: https://mmxfq.github.io/firstpass-site/browser-tool-sprint.html
 ASC Monthly Collections Workbook: https://mmxfq.github.io/firstpass-site/asc-collections-workbook.html
 Free developer tool release checklist: https://mmxfq.github.io/firstpass-site/release-checklist.html
@@ -26,6 +27,7 @@ Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order
 - Turnaround: one business day after the public URL and cleared payment are received.
 - Deliverables: desktop/mobile homepage-to-signup trace, 10+ prioritized findings with page evidence, a homepage hero rewrite, acceptance checks, and a seven-day action plan.
 - Developer Tool Release Check: US$25 for one public CLI or developer tool's documented Windows install and first-run path, with 5+ cited findings or verified passes and command-level acceptance checks.
+- Agent Artifact Sanitizer: US$29 individual or US$49 agency license for a self-contained offline tool that sanitizes selected agent and MCP files or ZIPs and exports a redacted bundle, findings report, and rotation checklist.
 - Custom Browser Lead Magnet Sprint: US$99 for one branded no-signup calculator, checklist, quiz, scorecard, or brief builder delivered in three business days.
 - ASC Monthly Collections Workbook: US$39 for a ready-to-deliver macro-free Excel workbook covering 24 months of aggregate charges, payments, refunds, adjustments, collection rates, A/R trends, and exception flags. No patient-level data or PHI.
 - SaaS Hero Rewrite Kit: US$9 self-guided product.
