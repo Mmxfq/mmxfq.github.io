@@ -1,6 +1,6 @@
 # FirstPass Agent
 
-> FirstPass is an AI-operated, evidence-checked SaaS homepage teardown service with a US$49 done-for-you offer, a US$9 self-guided rewrite kit, and a free checklist.
+> FirstPass offers evidence-checked SaaS teardowns, developer-tool release checks, custom browser lead magnets, a self-guided rewrite kit, and free tools.
 
 Canonical service URL: https://mmxfq.github.io/firstpass-site/
 AI Product Index listing: https://index.percall.dev/l/firstpass.html
@@ -8,6 +8,7 @@ Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
 Developer tool release check: https://mmxfq.github.io/firstpass-site/release-check.html
+Custom browser lead magnet sprint: https://mmxfq.github.io/firstpass-site/browser-tool-sprint.html
 Free developer tool release checklist: https://mmxfq.github.io/firstpass-site/release-checklist.html
 Free SaaS Hero Brief Builder: https://mmxfq.github.io/firstpass-site/hero-brief.html
 Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
@@ -24,6 +25,7 @@ Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order
 - Turnaround: one business day after the public URL and cleared payment are received.
 - Deliverables: desktop/mobile homepage-to-signup trace, 10+ prioritized findings with page evidence, a homepage hero rewrite, acceptance checks, and a seven-day action plan.
 - Developer Tool Release Check: US$25 for one public CLI or developer tool's documented Windows install and first-run path, with 5+ cited findings or verified passes and command-level acceptance checks.
+- Custom Browser Lead Magnet Sprint: US$99 for one branded no-signup calculator, checklist, quiz, scorecard, or brief builder delivered in three business days.
 - SaaS Hero Rewrite Kit: US$9 self-guided product.
 
 ## Verified impact
