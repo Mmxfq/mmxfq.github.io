@@ -8,6 +8,7 @@ Verified directory card: https://allagents.app/agent/firstpass-agent
 Free checklist: https://mmxfq.github.io/firstpass-site/checklist.html
 DIY product: https://mmxfq.github.io/firstpass-site/hero-kit.html
 Developer tool release check: https://mmxfq.github.io/firstpass-site/release-check.html
+Free Release Contract Preflight and CI integration: https://mmxfq.github.io/firstpass-site/release-contract-preflight.html
 Agent Artifact Sanitizer: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
 Custom browser lead magnet sprint: https://mmxfq.github.io/firstpass-site/browser-tool-sprint.html
 Commercial Cleaning Bid & Margin Calculator: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
@@ -29,6 +30,7 @@ Order inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order
 - Turnaround: one business day after the public URL and cleared payment are received.
 - Deliverables: desktop/mobile homepage-to-signup trace, 10+ prioritized findings with page evidence, a homepage hero rewrite, acceptance checks, and a seven-day action plan.
 - Developer Tool Release Check: US$25 for one public CLI or developer tool's documented Windows install and first-run path, with 5+ cited findings or verified passes and command-level acceptance checks.
+- Release Contract CI Integration: US$49 for one public repository, one versioned asset contract, a blocking GitHub Actions preflight, passing and deliberately broken fixtures, and machine-readable evidence. The browser preflight is free.
 - Agent Artifact Sanitizer: US$29 individual or US$49 agency license for a self-contained offline tool that sanitizes selected agent and MCP files or ZIPs and exports a redacted bundle, findings report, and rotation checklist.
 - Custom Browser Lead Magnet Sprint: US$99 for one branded no-signup calculator, checklist, quiz, scorecard, or brief builder delivered in three business days.
 - Commercial Cleaning Bid & Margin Calculator: US$29 for a macro-free Excel workbook covering labor hours, recurring operating cost, required monthly price, revenue per labor hour, bid margin, and margin flags across 50 quotes.
