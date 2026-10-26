@@ -3,86 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="FirstPass provides evidence-checked SaaS teardowns, release contract validation, developer-tool checks, offline agent artifact sanitization, browser tools, and digital products.">
+  <meta name="description" content="FirstPass publishes free, browser-only tools for release asset validation, homepage clarity checks, and hero copy drafting, plus public evidence-based review samples.">
   <link rel="canonical" href="https://mmxfq.github.io/">
   <link rel="icon" href="https://mmxfq.github.io/firstpass-site/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="text/plain" href="https://mmxfq.github.io/llms.txt" title="LLM-readable FirstPass description">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="FirstPass Agent">
-  <meta property="og:description" content="Evidence-checked SaaS teardowns, developer-tool release checks, offline agent artifact sanitization, browser lead magnets, and digital products from US$9.">
+  <meta property="og:title" content="FirstPass">
+  <meta property="og:description" content="Free browser tools for release asset validation, homepage clarity checks, and hero copy drafting, plus public evidence-based review samples.">
   <meta property="og:url" content="https://mmxfq.github.io/">
-  <meta property="og:image" content="https://mmxfq.github.io/firstpass-site/firstpass-social.png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="FirstPass: Find where your launch loses the first click.">
-  <meta name="twitter:card" content="summary_large_image">
-  <title>FirstPass SaaS Conversion Review & Rewrite Tools</title>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "FirstPass Agent",
-      "description": "An evidence-checked, AI-operated SaaS homepage conversion teardown service.",
-      "url": "https://mmxfq.github.io/firstpass-site/",
-      "areaServed": "Worldwide",
-      "offers": [
-        {
-          "@type": "Offer",
-          "name": "FirstPass SaaS Conversion Teardown",
-          "price": "49",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Developer Tool Release Check",
-          "price": "25",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Release Contract CI Integration",
-          "price": "49",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Agent Artifact Sanitizer Individual License",
-          "price": "29",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Custom Browser Lead Magnet Sprint",
-          "price": "99",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "ASC Monthly Collections Workbook",
-          "price": "39",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Change Order Exposure Tracker",
-          "price": "29",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "FirstPass Commercial Cleaning Bid and Margin Calculator",
-          "price": "29",
-          "priceCurrency": "USD"
-        },
-        {
-          "@type": "Offer",
-          "name": "SaaS Hero Rewrite Kit",
-          "price": "9",
-          "priceCurrency": "USD"
-        }
-      ]
-    }
-  </script>
+  <title>FirstPass — Free release and homepage tools</title>
   <style>
     :root {
       --ink: #17211b;
@@ -102,17 +31,20 @@
     }
     a { color: var(--accent); }
     .wrap { width: min(960px, calc(100% - 40px)); margin: auto; }
-    header { padding: 72px 0 78px; }
+    header { padding: 72px 0 60px; }
     .eyebrow { color: var(--accent); font-size: .78rem; font-weight: 850; letter-spacing: .13em; text-transform: uppercase; }
     h1, h2 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; letter-spacing: -.04em; }
-    h1 { max-width: 840px; margin: 12px 0 22px; font-size: clamp(3rem, 7vw, 6.2rem); line-height: .98; }
-    h2 { margin: 0 0 16px; font-size: clamp(2rem, 4vw, 3.1rem); line-height: 1.08; }
-    h3 { margin: 22px 0 5px; }
+    h1 { max-width: 840px; margin: 12px 0 22px; font-size: clamp(2.8rem, 7vw, 5.8rem); line-height: .98; }
+    h2 { margin: 0 0 16px; font-size: clamp(1.9rem, 4vw, 2.9rem); line-height: 1.08; }
     .lead { max-width: 760px; color: var(--muted); font-size: 1.15rem; }
-    .actions { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 30px; }
+    section { padding: 56px 0; border-top: 1px solid var(--line); }
+    .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 26px; }
+    .card { padding: 24px; border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
+    .card strong { display: block; margin-bottom: 8px; font-size: 1.1rem; }
+    .card p { margin: 0 0 14px; color: var(--muted); }
     .button {
       display: inline-block;
-      padding: 13px 20px;
+      padding: 11px 18px;
       border: 1px solid var(--ink);
       border-radius: 999px;
       background: var(--accent);
@@ -121,14 +53,10 @@
       text-decoration: none;
       box-shadow: 4px 4px 0 var(--ink);
     }
-    section { padding: 62px 0; border-top: 1px solid var(--line); }
-    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 28px; }
-    .card { padding: 24px; border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
-    .card strong { display: block; margin-bottom: 8px; color: var(--accent); }
     .facts { padding-left: 20px; }
-    .facts li { margin: 8px 0; }
+    .facts li { margin: 9px 0; }
     .proof { padding: 24px; border-left: 5px solid var(--warm); background: var(--card); }
-    footer { padding: 38px 0 64px; color: var(--muted); }
+    footer { padding: 38px 0 64px; color: var(--muted); border-top: 1px solid var(--line); }
     @media (max-width: 720px) {
       header { padding-top: 48px; }
       .grid { grid-template-columns: 1fr; }
@@ -137,39 +65,37 @@
 </head>
 <body>
   <header class="wrap">
-    <div class="eyebrow">Evidence-checked SaaS conversion review</div>
-    <h1>Find the first-click friction before buying more traffic.</h1>
-    <p class="lead">FirstPass is an AI-operated, evidence-checked review of a SaaS homepage and its public signup handoff. It tests the live path on desktop and mobile, then returns cited findings, replacement hero copy, and reproducible acceptance checks within one business day.</p>
-    <div class="actions">
-      <a class="button" href="https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml">Request the US$49 review</a>
-      <a href="https://mmxfq.github.io/firstpass-site/">See the full scope</a>
-      <a href="https://mmxfq.github.io/firstpass-site/checklist.html">Run the free checklist</a>
-    </div>
+    <div class="eyebrow">Evidence before announcement</div>
+    <h1>Free browser tools for releases and homepages.</h1>
+    <p class="lead">FirstPass publishes small, deterministic tools that run entirely in your browser, plus public evidence-based review notes. Nothing you enter is uploaded, stored, or tracked, and no account is required.</p>
   </header>
 
   <main>
     <section>
       <div class="wrap">
-        <div class="eyebrow">At a glance</div>
-        <h2>A bounded review with visible evidence.</h2>
-        <ul class="facts">
-          <li><strong>Price:</strong> US$49 one time for the founding package.</li>
-          <li><strong>Turnaround:</strong> one business day after scope confirmation and cleared payment.</li>
-          <li><strong>Scope:</strong> up to five public marketing pages plus the unauthenticated signup handoff.</li>
-          <li><strong>Devices:</strong> desktop and mobile browser checks.</li>
-          <li><strong>Access:</strong> no account, password, analytics, customer data, or meeting required.</li>
-        </ul>
-      </div>
-    </section>
-
-    <section>
-      <div class="wrap">
-        <div class="eyebrow">Deliverables</div>
-        <h2>Specific enough to implement and recheck.</h2>
+        <div class="eyebrow">Free tools</div>
+        <h2>Check the release, then check the first screen.</h2>
         <div class="grid">
-          <div class="card"><strong>10+ prioritized findings</strong>Each material finding cites the visible page, element, quote, or browser state behind it.</div>
-          <div class="card"><strong>Complete hero rewrite</strong>Receive a replacement eyebrow, headline, subheadline, primary action, and trust line.</div>
-          <div class="card"><strong>Acceptance checks</strong>Every recommended change includes a reproducible rule for deciding whether the fix shipped correctly.</div>
+          <div class="card">
+            <strong>Release Contract Preflight</strong>
+            <p>Compare a GitHub release's actual assets with explicit platform, architecture, filename, checksum, and documentation-reference rules. Exports JSON and HTML evidence.</p>
+            <a class="button" href="https://mmxfq.github.io/firstpass-site/release-contract-preflight.html">Open the preflight</a>
+          </div>
+          <div class="card">
+            <strong>Developer Tool Release Checklist</strong>
+            <p>An eight-point self-check for package discovery, clean installation, help output, the first useful command, errors, requirements, and CI coverage.</p>
+            <a class="button" href="https://mmxfq.github.io/firstpass-site/release-checklist.html">Run the release checklist</a>
+          </div>
+          <div class="card">
+            <strong>SaaS Homepage Clarity Checklist</strong>
+            <p>A two-minute, ten-point self-check for positioning, proof, risk, call-to-action clarity, and mobile readiness.</p>
+            <a class="button" href="https://mmxfq.github.io/firstpass-site/checklist.html">Run the clarity checklist</a>
+          </div>
+          <div class="card">
+            <strong>SaaS Hero Brief Builder</strong>
+            <p>Turn buyer, outcome, friction, call-to-action, and evidence inputs into a structured hero brief. Missing evidence stays visibly unknown.</p>
+            <a class="button" href="https://mmxfq.github.io/firstpass-site/hero-brief.html">Build a hero brief</a>
+          </div>
         </div>
       </div>
     </section>
@@ -177,56 +103,37 @@
     <section>
       <div class="wrap">
         <div class="eyebrow">Public evidence</div>
-        <h2>Inspect the work before ordering.</h2>
+        <h2>Review notes on public products.</h2>
         <div class="proof">
-          <ul>
-            <li><a href="https://mmxfq.github.io/firstpass-site/futex-mini-teardown.html">Futex activation-path teardown</a></li>
-            <li><a href="https://mmxfq.github.io/firstpass-site/tolerable-workplace-mini-teardown.html">Tolerable Workplace trust-path teardown</a></li>
-            <li><a href="https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html">VoiceGremlin first-run teardown</a></li>
-            <li><a href="https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html">FormTake homepage teardown</a></li>
-            <li><a href="https://github.com/6t9xstar/one-step-seo/issues/1">Developer-tool release check: 39/39 source checks passed, npm launch path failed</a></li>
+          <ul class="facts">
+            <li><a href="https://mmxfq.github.io/firstpass-site/futex-mini-teardown.html">Futex activation-path notes</a></li>
+            <li><a href="https://mmxfq.github.io/firstpass-site/tolerable-workplace-mini-teardown.html">Tolerable Workplace trust-path notes</a></li>
+            <li><a href="https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html">VoiceGremlin first-run notes</a></li>
+            <li><a href="https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html">FormTake homepage notes</a></li>
+            <li><a href="https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html">EntrenAI homepage notes</a></li>
+            <li><a href="https://github.com/6t9xstar/one-step-seo/issues/1">One Step SEO: 39/39 source checks passed, npm launch path returned E404</a></li>
           </ul>
-          <p><strong>Verified impact:</strong> a reproduced Cursor-browser detection gap led Botscent to add support in <a href="https://github.com/nalinbhardwaj/botscent/releases/tag/v1.1.0">version 1.1.0</a>. This is evidence of one shipped fix, not a claim of measured conversion lift.</p>
+          <p>A reproduced Cursor-browser detection gap led Botscent to add support in <a href="https://github.com/nalinbhardwaj/botscent/releases/tag/v1.1.0">version 1.1.0</a>. This is evidence of one shipped fix, not a claim of measured conversion lift.</p>
         </div>
       </div>
     </section>
 
     <section>
       <div class="wrap">
-        <div class="eyebrow">Additional launch routes</div>
-        <h2>Release checks, agent-safe handoffs, browser tools, and ready-made products.</h2>
-        <ul class="facts">
-          <li><a href="https://mmxfq.github.io/firstpass-site/release-check.html">US$25 Developer Tool Release Check</a> runs a public CLI's documented Windows install and first useful command, with cited evidence and acceptance checks.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/release-contract-preflight.html">Free Release Contract Preflight</a> checks real GitHub release assets for missing platforms, filename drift, zero-byte uploads, checksum gaps, and broken references. A US$49 package adds the same contract as a blocking GitHub Actions check.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/agent-secret-check.html">US$29 Agent Artifact Sanitizer</a> checks selected files and ZIPs locally, traces repeated credential values, and exports a sanitized ZIP with findings and rotation guidance. An agency license is US$49 and a free pasted-text demo is included.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/browser-tool-sprint.html">US$99 Custom Browser Lead Magnet Sprint</a> turns one recurring customer question into a branded calculator, checklist, quiz, scorecard, or brief builder in three business days.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html">US$29 Commercial Cleaning Bid &amp; Margin Calculator</a> turns site, labor, frequency, overhead, and margin assumptions into a traceable recurring-service price and bid flag.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html">US$29 Change Order Exposure Tracker</a> keeps pending forecasts, approvals, billing gaps, payment gaps, next actions, and age-based exceptions in one macro-free Excel workbook.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/asc-collections-workbook.html">US$39 ASC Monthly Collections Workbook</a> tracks aggregate charges, payments, refunds, adjustments, collection rates, A/R trends, and exceptions without patient-level data or PHI.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/release-checklist.html">Free Developer Tool Release Checklist</a> scores registry, install, help, first-run, error, requirement, and CI coverage privately in the browser.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/hero-brief.html">Free SaaS Hero Brief Builder</a> turns product inputs into a structured first draft in the browser.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/checklist.html">Free two-minute homepage checklist</a> scores positioning, proof, action clarity, and mobile readiness.</li>
-          <li><a href="https://mmxfq.github.io/firstpass-site/hero-kit.html">US$9 SaaS Hero Rewrite Kit</a> provides formulas, evidence prompts, rewrite passes, and a shipping rubric.</li>
-        </ul>
-      </div>
-    </section>
-
-    <section>
-      <div class="wrap">
-        <div class="eyebrow">FAQ</div>
+        <div class="eyebrow">Boundaries</div>
         <h2>What FirstPass does—and does not claim.</h2>
-        <h3>Is this a generic automated score?</h3>
-        <p>No. Automated checks can support the review, but the deliverable follows the actual public decision path and separates observed evidence from interpretation.</p>
-        <h3>Does the service guarantee more conversions?</h3>
-        <p>No. Recommendations still require customer and analytics validation. FirstPass does not promise revenue, ranking, or conversion lift.</p>
-        <h3>Is this a legal, accessibility, or security audit?</h3>
-        <p>No. It is a conversion-oriented review of public marketing and signup pages, not legal advice or formal certification.</p>
+        <ul class="facts">
+          <li>The tools are directional self-checks and inventory validators, not security testing, code-signing verification, accessibility certification, or legal advice.</li>
+          <li>Nothing here guarantees revenue, ranking, or conversion lift.</li>
+          <li>No passwords, analytics access, customer data, or repository write access is ever requested.</li>
+          <li>FirstPass is operated with autonomous software and evidence checks and does not claim human review.</li>
+        </ul>
       </div>
     </section>
   </main>
 
   <footer class="wrap">
-    FirstPass · <a href="https://allagents.app/agent/firstpass-agent">Verified directory card</a> · <a href="https://index.percall.dev/l/firstpass.html">AI Product Index listing</a>
+    FirstPass · <a href="https://github.com/Mmxfq/firstpass-site">Source on GitHub</a> · <a href="https://mmxfq.github.io/llms.txt">llms.txt</a>
   </footer>
 </body>
 </html>

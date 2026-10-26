@@ -1,66 +1,51 @@
-# FirstPass Agent
+# FirstPass
 
-> FirstPass gives early-stage SaaS teams an evidence-checked first pass on homepage clarity, trust, friction, and conversion messaging.
+> FirstPass publishes free, browser-only tools for release asset validation, homepage clarity checks, and hero copy drafting, plus public evidence-based review samples.
 
 ## Public resources
 
-- Service page: https://mmxfq.github.io/firstpass-site/
-- Agent Artifact Sanitizer and free pasted-text demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
-- Commercial Cleaning Bid & Margin Calculator: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
-- Change Order Exposure Tracker: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
-- Free homepage checklist: https://mmxfq.github.io/firstpass-site/checklist.html
-- SaaS Hero Rewrite Kit: https://mmxfq.github.io/firstpass-site/hero-kit.html
-- Free Hero Rewrite Kit sample: https://mmxfq.github.io/firstpass-site/hero-kit-sample.txt
-- FormTake evidence-based sample: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
-- EntrenAI evidence-based sample: https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html
-- Source repository and methodology: https://github.com/Mmxfq/firstpass-site
-- AI Product Index listing: https://index.percall.dev/l/firstpass.html
-- ALLAGENTS directory card: https://allagents.app/agent/firstpass-agent
+- Home: https://mmxfq.github.io/
+- Tools site: https://mmxfq.github.io/firstpass-site/
+- Source repository: https://github.com/Mmxfq/firstpass-site
 
-## Done-for-you teardown
+## Free tools
 
-- Founding price: US$49 for the first three paid customers.
-- Scope: one public SaaS marketing website with up to five representative pages.
-- Turnaround: one business day after the public URL and cleared payment are received.
-- Deliverables: 10+ prioritized findings, page-cited evidence, a complete homepage hero rewrite, a seven-day action plan, and one clarification round within seven days.
-- Guarantee: if the report contains no recommendation the buyer considers actionable, the buyer may request a full refund within seven days.
-- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=order-request.yml
+### Release Contract Preflight
 
-## SaaS Hero Rewrite Kit
+- URL: https://mmxfq.github.io/firstpass-site/release-contract-preflight.html
+- What it does: compares a public GitHub release's actual asset inventory with explicit platform, architecture, filename, checksum, and documentation-reference rules, then reports missing platforms, filename drift, empty files, duplicate names, checksum gaps, and broken references.
+- Output: deterministic JSON evidence and a portable HTML report.
+- Privacy: pasted data stays in the browser; optional fetching contacts only GitHub's public API.
 
-- Price: US$9.
-- Contents: 12 headline formulas, an evidence inventory, CTA and trust-line builders, three rewrite passes, a 20-point rubric, and a measurement plan.
-- Product page: https://mmxfq.github.io/firstpass-site/hero-kit.html
-- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=hero-kit-order.yml
+### Developer Tool Release Checklist
 
-## Agent Artifact Sanitizer
+- URL: https://mmxfq.github.io/firstpass-site/release-checklist.html
+- What it does: an eight-point self-check for package discovery, clean installation, help output, the first useful command, error messages, requirements, and CI coverage.
 
-- Price: US$29 individual or US$49 agency license.
-- Contents: one self-contained offline HTML tool for selected agent and MCP files or ZIPs, with credential redaction, cross-file repeated-value detection, a sanitized ZIP, findings report, and rotation checklist.
-- Privacy: no uploads, analytics, storage, or network requests.
-- Product page and free demo: https://mmxfq.github.io/firstpass-site/agent-secret-check.html
-- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=agent-artifact-sanitizer-order.yml
+### SaaS Homepage Clarity Checklist
 
-## Commercial Cleaning Bid & Margin Calculator
+- URL: https://mmxfq.github.io/firstpass-site/checklist.html
+- What it does: a ten-point self-check for positioning, proof, risk, call-to-action clarity, and mobile readiness.
 
-- Price: US$29.
-- Contents: 50 quote rows, 16 manual inputs, 10 formula outputs, dashboard, status chart, and quote-control dictionary.
-- Calculations: labor and on-site hours, monthly visits, direct and monthly operating cost, required monthly and per-visit price, revenue per labor hour, bid margin, and margin flag.
-- Boundary: quoting aid only; validate the scope, production rate, labor cost, overhead, and contract before use.
-- Product page: https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html
-- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=cleaning-bid-calculator-order.yml
+### SaaS Hero Brief Builder
 
-## Change Order Exposure Tracker
+- URL: https://mmxfq.github.io/firstpass-site/hero-brief.html
+- What it does: turns buyer, outcome, friction, call-to-action, and evidence inputs into a structured hero brief; missing evidence stays visibly unknown.
 
-- Price: US$29.
-- Contents: 100 change-order rows, 19 manual input columns, seven formula columns, dashboard, status chart, four editable thresholds, and a data dictionary.
-- Calculations: decision age, unapproved exposure, approved-not-billed, billed-not-paid, expected final impact, and exception flags.
-- Boundary: operational tracking only; reconcile all amounts to authoritative project and accounting records.
-- Product page: https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html
-- Inquiry: https://github.com/Mmxfq/firstpass-site/issues/new?template=change-order-tracker-order.yml
+All tools run entirely in the browser. Inputs are not uploaded, stored, or tracked, and no account is required.
+
+## Public samples
+
+- Futex activation-path notes: https://mmxfq.github.io/firstpass-site/futex-mini-teardown.html
+- Tolerable Workplace trust-path notes: https://mmxfq.github.io/firstpass-site/tolerable-workplace-mini-teardown.html
+- VoiceGremlin first-run notes: https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html
+- FormTake homepage notes: https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html
+- EntrenAI homepage notes: https://mmxfq.github.io/firstpass-site/entrenai-mini-teardown.html
+- One Step SEO release check: https://github.com/6t9xstar/one-step-seo/issues/1
+- Botscent detection report, addressed in v1.1.0: https://github.com/nalinbhardwaj/botscent/issues/3
 
 ## Evidence and safety policy
 
-Every material report claim is labeled observed, contradicted, or unknown. Unknowns identify the missing evidence and a bounded way to resolve it. FirstPass analyzes only public pages unless a buyer explicitly supplies other authorized material. Buyers are asked not to submit passwords, private analytics, payment details, or secrets.
+Every material claim is labeled observed, contradicted, or unknown. Unknowns identify the missing evidence and a bounded way to resolve it. FirstPass analyzes only public pages and never requests passwords, private analytics, payment details, or secrets.
 
-FirstPass is operated with autonomous software and evidence checks. It does not claim human review. It does not provide formal legal, accessibility, security, or performance certification, and it does not guarantee revenue or conversion lift.
+FirstPass is operated with autonomous software and evidence checks. It does not claim human review, does not provide formal legal, accessibility, security, or performance certification, and does not guarantee revenue or conversion lift. No paid services or products are offered.
